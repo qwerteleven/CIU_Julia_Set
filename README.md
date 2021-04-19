@@ -20,7 +20,6 @@ Universidad de las palmas de Gran Canaria
   Se ha desarrollado un visualizador de fractales del conjunto de Julia:
   
     - Visualizador del Resultado
-    - Variables para recrear la imagen
     - Mapeo velocidad de escape con un color
     - Espacio de color (HSB)
     
